@@ -1,0 +1,97 @@
+[
+    {
+        "id":1,
+        "name":"Rich Dad Poor Dad",
+        "title":"Contrasts financial mindsets to highlight of financial education.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":2,
+        "name":"Atomic Habits",
+        "title":"Small changes lead to big personal and professional growth.",
+        "price":10,
+        "category":"Self development",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":3,
+        "name":"The 7 Habits of Highly Effective People",
+        "title":" Key habits for personal and professional effectiveness.",
+        "price":20,
+        "category":"personality development",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":4,
+        "name":"How to Win Friends and Influence People",
+        "title":"Timeless advice on improving communication and relationships.",
+        "price":30,
+        "category":"Friendship",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":5,
+        "name":"Mindset",
+        "title":" A growth mindset leads to greater success.",
+        "price":40,
+        "category":"Mind reading",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":6,
+        "name":"Ikigai",
+        "title":"Finding purpose leads to happiness and longevity.",
+        "price":50,
+        "category":"History",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },{
+        "id":7,
+        "name":"Essentialism",
+        "title":" Focus on what truly matters for meaningful results.",
+        "price":60,
+        "category":"Fiction",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":8,
+        "name":"Outliers",
+        "title":"Success is shaped by opportunity and practice.",
+        "price":70,
+        "category":"Fantasy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":9,
+        "name":"Power",
+        "title":"Strategies for gaining and maintaining power.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":10,
+        "name":"Wings of Fire",
+        "title":"The inspiring journey of A.P.J. Abdul Kalam.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":11,
+        "name":"The 48 Laws",
+        "title":"Understanding human behavior through 48 laws.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    },
+    {
+        "id":12,
+        "name":"The Final Interview",
+        "title":" A pivotal interview determines career and life fate.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724571715~exp=1724575315~hmac=63dbca10870bc77dfab1f9f68524485c1860aa5e972f34ee6b94fbcf38b5be66&w=740"
+    }
+]
